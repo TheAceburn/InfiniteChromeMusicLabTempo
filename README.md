@@ -1,5 +1,5 @@
 # Infinite Chrome Music Lab Tempo
-removes the tempo limits on chrome music lab's song maker, although it breaks the tempo slider
+removes the tempo limits on chrome music lab's song maker, although it breaks the tempo slider (oh yeah also it doesnt allow you to save when the tempo is over 240 for some reason)
 
 might make it remove more of the limits such as the octave range or the song length someday but for now its just the tempo
 
