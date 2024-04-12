@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Infinite Chrome Music Lab Tempo
-// @namespace    http://tampermonkey.net/
+// @namespace    http://github.com/TheAceburn/InfiniteChromeMusicLabTempo/releases/tag/tag
 // @version      1.0
 // @description  removes the tempo limits on the chrome music lab song maker although it breaks the slider
 // @author       cynder using CHATGPT????!!!?!!?! :scream::scream:
